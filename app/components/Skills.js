@@ -23,20 +23,24 @@ import { SiMysql, SiPostgresql, SiSqlite } from "react-icons/si";
 const skills = [
   { name: "JavaScript", icon: <FaJs /> },
   { name: "React", icon: <FaReact /> },
+  { name: "Next.js", icon: <FaReact /> }, // (you can swap to next.js logo if you prefer)
+  { name: "Tailwind CSS", icon: <FaCss3Alt /> }, // (swap to Tailwind logo if installed via react-icons)
   { name: "CSS", icon: <FaCss3Alt /> },
   { name: "Python", icon: <FaPython /> },
   { name: "HTML", icon: <FaHtml5 /> },
   { name: "Bootstrap", icon: <DiBootstrap /> },
-  { name: "Django", icon: <DiDjango /> },
   { name: "Ruby on Rails", icon: <DiRuby /> },
   { name: "Git", icon: <DiGit /> },
   { name: "GitHub", icon: <DiGithubBadge /> },
   { name: "API Development (REST)", icon: <MdApi /> },
+  { name: "Frontend Development", icon: <FaLaptopCode /> },
+  { name: "Backend Development", icon: <FaLaptopCode /> },
   { name: "Full Stack Development", icon: <FaLaptopCode /> },
   { name: "MySQL", icon: <SiMysql /> },
   { name: "PostgreSQL", icon: <SiPostgresql /> },
   { name: "SQLite", icon: <SiSqlite /> },
 ];
+
 
 // Animation Variants
 const containerVariants = {
