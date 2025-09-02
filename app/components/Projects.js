@@ -10,34 +10,35 @@ const projects = [
     description:
       "A modern e-commerce platform for beauty products, featuring seamless checkout and product filtering.",
     techStack: "Next js",
-    link: "https://truebeauty-tan.vercel.app/",
-    github: "https://github.com/khristine-g/Beauty-store",
+    link: "https://beauty-e-commerce-six.vercel.app/",
+    github: "https://github.com/khristine-g/beauty-e-commerce.git",
     image: "images/Screenshot5.png",
   },
   {
-    title: "Job Tracker",
-    description:
-      "An intuitive real estate platform for browsing, buying, selling, and renting properties.",
-    techStack: "Next js, Firebase",
-    link: "https://realty-taupe.vercel.app/",
-    github: "https://github.com/khristine-g/Real-estate",
-    image: "images/Screenshot7.png",
-  },
-  {
-    title: "Crypto Dashboard",
-    description:
-      "A platform to support and fund innovative projects, empowering creators to bring ideas to life.",
-    techStack: "Next js",
-    link: "https://empowerher-two.vercel.app/",
-    github: "https://github.com/khristine-g/Empowerher",
-    image: "images/Screenshot8.png",
-  },
+  title: "Job Tracker",
+  description:
+    "A simple and efficient platform to help users track job applications, manage opportunities, and stay organized during the job search process.",
+  techStack: "Next js, Firebase",
+  link: "https://job-tracker-puce.vercel.app/",
+  github: "https://github.com/khristine-g/job-tracker.git",
+  image: "images/Screenshot7.png",
+},
+{
+  title: "Crypto Dashboard",
+  description:
+    "An interactive dashboard that provides real-time insights, analytics, and tracking for cryptocurrencies and market trends.",
+  techStack: "Next js",
+  link: "https://crypto-dashboard-delta-one.vercel.app/",
+  github: "https://github.com/khristine-g/crypto-dashboard.git",
+  image: "images/Screenshot8.png",
+},
+
   {
     title: "Portfolio Website",
     description:
       "A personal portfolio showcasing my web development projects and skills.",
     techStack: "React, CSS",
-    link: "https://khristineportfolio.vercel.app/",
+    link: "https://realty-taupe.vercel.app/",
     github: "https://github.com/khristine-g/Portfolio-website",
     image: "/Screenshot2.png",
   },
