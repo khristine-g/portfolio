@@ -34,14 +34,15 @@ const projects = [
 },
 
   {
-    title: "Portfolio Website",
-    description:
-      "A personal portfolio showcasing my web development projects and skills.",
-    techStack: "React, CSS",
-    link: "https://realty-taupe.vercel.app/",
-    github: "https://github.com/khristine-g/Portfolio-website",
-    image: "/Screenshot2.png",
-  },
+  title: "Kode.dev Mentoring Website",
+  description:
+    "A website where learners can sign up to my teaching sessions and follow along with what I’m offering.",
+  techStack: "React, Tailwind CSS",
+  link: "https://kodedev-beta.vercel.app/",
+  github: "https://github.com/khristine-g/kodedev.git",
+  image: "images/Screenshot9.png",
+}
+
 ];
 
 const cardVariants = {

@@ -76,9 +76,7 @@ export default function Home() {
               Software Developer 💻
             </h2>
             <p className="text-gray-400 leading-relaxed max-w-lg mx-auto md:mx-0">
-              I build intuitive, user-focused web applications. I’m passionate
-              about leveraging technology to solve problems and create meaningful
-              digital experiences.
+             I design and develop modern web applications  focusing on clean design, seamless functionality, and great user experiences.
             </p>
 
             {/* Buttons */}
