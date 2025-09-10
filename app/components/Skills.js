@@ -23,8 +23,8 @@ import { SiMysql, SiPostgresql, SiSqlite } from "react-icons/si";
 const skills = [
   { name: "JavaScript", icon: <FaJs /> },
   { name: "React", icon: <FaReact /> },
-  { name: "Next.js", icon: <FaReact /> }, // (you can swap to next.js logo if you prefer)
-  { name: "Tailwind CSS", icon: <FaCss3Alt /> }, // (swap to Tailwind logo if installed via react-icons)
+  { name: "Next.js", icon: <FaReact /> }, 
+  { name: "Tailwind CSS", icon: <FaCss3Alt /> }, 
   { name: "CSS", icon: <FaCss3Alt /> },
   { name: "Python", icon: <FaPython /> },
   { name: "HTML", icon: <FaHtml5 /> },
