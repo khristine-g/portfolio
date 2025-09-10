@@ -13,7 +13,7 @@ export default function Home() {
   const buttons = [
     {
       label: "Download CV",
-      url: "/KhristineGithige_Resume.docx",
+      url: "/KHRISTINEGITHIGE-RESUME.docx",
       download: true,
       className:
         "bg-gradient-to-r from-orange-500 to-orange-600 text-white hover:shadow-[0_0_20px_rgba(249,115,22,0.6)]",
