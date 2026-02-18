@@ -10,7 +10,7 @@ const projects = [
     description:
       "A modern e-commerce platform for beauty products, featuring seamless checkout and product filtering.",
     techStack: "Next js",
-    link: "https://beauty-e-commerce-six.vercel.app/",
+    link: "https://beauty-e-commerce-ten.vercel.app/",
     github: "https://github.com/khristine-g/beauty-e-commerce.git",
     image: "images/Screenshot5.png",
   },
